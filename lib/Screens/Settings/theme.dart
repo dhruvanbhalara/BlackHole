@@ -197,9 +197,8 @@ class _ThemePageState extends State<ThemePage> {
                                     child: Container(
                                       width: MediaQuery.sizeOf(context).width *
                                           0.125,
-                                      height:
-                                          MediaQuery.sizeOf(context).width *
-                                              0.125,
+                                      height: MediaQuery.sizeOf(context).width *
+                                          0.125,
                                       decoration: BoxDecoration(
                                         borderRadius: BorderRadius.circular(
                                           100.0,

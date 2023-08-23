@@ -184,8 +184,7 @@ class _PlayerGradientSelectionState extends State<PlayerGradientSelection> {
                                 clipBehavior: Clip.antiAlias,
                                 child: FittedBox(
                                   child: SizedBox(
-                                    width:
-                                        MediaQuery.sizeOf(context).width / 5,
+                                    width: MediaQuery.sizeOf(context).width / 5,
                                     height:
                                         MediaQuery.sizeOf(context).width / 25,
                                   ),
@@ -205,8 +204,7 @@ class _PlayerGradientSelectionState extends State<PlayerGradientSelection> {
                                 clipBehavior: Clip.antiAlias,
                                 child: FittedBox(
                                   child: SizedBox(
-                                    width:
-                                        MediaQuery.sizeOf(context).width / 5,
+                                    width: MediaQuery.sizeOf(context).width / 5,
                                     height:
                                         MediaQuery.sizeOf(context).width / 25,
                                   ),

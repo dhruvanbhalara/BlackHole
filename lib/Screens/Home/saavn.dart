@@ -588,7 +588,6 @@ class _SaavnHomePageState extends State<SaavnHomePage>
                                                 imageQuality: ImageQuality.high,
                                                 boxDimension:
                                                     MediaQuery.sizeOf(context)
-
                                                             .width *
                                                         0.8,
                                                 placeholderImage: (item[
